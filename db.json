@@ -1,0 +1,90 @@
+{
+    "products" : [
+        {
+            "id": "1",
+            "name": "Jeans Trouser",
+            "description": "Men's wear",
+            "price": "1000",
+            "image": "https://unsplash.com/photos/man-wearing-brown-fitted-jeans-and-sneakers-standing-on-road-at-daytime-jC7nVH_Sw8k"
+        },
+
+        {
+            "id": "2",
+            "name": "T-Shirt",
+            "description": "Men's wear",
+            "price": "500",
+            "image": "https://unsplash.com/photos/man-wearing-gray-shirt-sYhUhse5uT8"
+        },
+
+        {
+            "id": "3",
+            "name": "Boots",
+            "description": "Ladies' wear",
+            "price": "2000",
+            "image": "https://www.istockphoto.com/photo/winter-boots-gm184641946-18044133?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwomen-boots&utm_medium=affiliate&utm_source=unsplash&utm_term=women+boots%3A%3A%3A"
+        },
+
+        {
+            "id": "4",
+            "name": "Sneakers",
+            "description": "Nike",
+            "price": "5000",
+            "image": "https://unsplash.com/photos/person-wearing-white-nike-air-shoe-at-daytime-NMyuo1hoCAA"
+        },
+
+        {
+            "id": "5",
+            "name": "Smart Watch",
+            "description": "Oraimo",
+            "price": "7000",
+            "image": "https://unsplash.com/photos/turned-on-black-led-watch-KiAYZZjpjkQ"
+        },
+
+        {
+            "id": "6",
+            "name": "spectacles",
+            "description": "Sunglasses",
+            "price": "500",
+            "image": "https://unsplash.com/photos/woman-in-black-suit-wearing-black-sunglasses-PYaoN4x4uTY"
+        },
+
+        {
+            "id": "7",
+            "name": "Socks",
+            "description": "Cotton",
+            "price": "500",
+            "image": "https://unsplash.com/photos/person-wearing-white-socks-lying-on-bed-r3M0uRuELdA"
+        },
+
+        {
+            "id": "8",
+            "name": "wig",
+            "description": "Human hair",
+            "price": "10000",
+            "image": "https://unsplash.com/photos/a-woman-with-an-afro-and-a-striped-shirt-LlvZ-giBpYg"
+        },
+
+        {
+            "id": "9",
+            "name": "Mug",
+            "description": "Glass",
+            "price": "1000",
+            "image": "https://unsplash.com/photos/a-glass-of-milk-next-to-a-stack-of-cookies-DbUq3r05smQ"
+        },
+
+        {
+            "id": "10",
+            "name": "Water Bottle",
+            "description": "Plastic",
+            "price": "1500",
+            "image": "https://www.istockphoto.com/photo/black-woman-runner-and-drinking-water-for-outdoor-exercise-training-workout-or-gm1468185310-499775588?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fplastic-water-bottle&utm_medium=affiliate&utm_source=unsplash&utm_term=plastic+water+bottle%3A%3A%3A"
+        }
+
+    ],
+    "Users" : [
+        {
+            
+        }
+    ]
+    
+}
